@@ -1,5 +1,6 @@
 # API_TALLER
 Entrega API Taller con temática de peliculas.
+Librerias: Express - Joi - PDFKit.
 
 OBTENER PELICULA POR ID
 ![image](https://github.com/user-attachments/assets/ca38a57b-9e1c-4fc3-abd3-203f7e561769)
